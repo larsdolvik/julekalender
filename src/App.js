@@ -14,6 +14,7 @@ import sled from './images/santassled.png';
 import heartIcon from './images/icons/heart.svg';
 
 import data from './data/data.json';
+import BackgroundAnimation from './BackgroundAnimation/index';
 
 class App extends Component {
   state = {
@@ -101,21 +102,21 @@ class App extends Component {
     const { activeDay } = this.state;
     return (
       <div className="App">
-        <Jumbotron />
+        <BackgroundAnimation numFactor={1} />
         <ConditionallyRender
           ifTrue={!activeDay}
           show={
             <FadeIn left by={300} delayBy={0.1}>
               <div className="app-container">
-                <img src={olaf} alt="olaf" className="app-image-left" />
+                {/* <img src={olaf} alt="olaf" className="app-image-left" /> */}
                 {this.renderDays()}
-                <img src={mikke} alt="olaf" className="app-image-right" />
-                <div className="app-bottom-image__container">
+                {/* <img src={mikke} alt="olaf" className="app-image-right" /> */}
+                {/* <div className="app-bottom-image__container">
                   <img src={sled} alt="santas sled" className="app-image-bottom" />
                 </div>
                 <p className="app-made-with__paragraph">
                   Made with <img src={heartIcon} alt="heart" />
-                </p>
+                </p> */}
               </div>
             </FadeIn>
           }

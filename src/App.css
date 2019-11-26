@@ -10,10 +10,10 @@ body {
 .app-container {
   display: flex;
   position: relative;
-  max-width: 1040px;
+  /* max-width: 1040px; */
   margin: 0 auto;
   flex-wrap: wrap;
-  padding: 100px 0 50px 0;
+  padding: 200px 0 50px 0;
 }
 
 .app-image-left {
@@ -57,18 +57,18 @@ body {
 
 @media (max-width: 1450px) {
   .app-container {
-    max-width: 800px;
+    /* max-width: 800px; */
   }
 }
 
 @media (max-width: 1350px) {
   .app-container {
-    max-width: 775px;
+    /* max-width: 775px; */
   }
 }
 
 @media (max-width: 1250px) {
   .app-container {
-    max-width: 650px;
+    /* max-width: 650px; */
   }
 }

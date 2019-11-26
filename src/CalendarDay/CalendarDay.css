@@ -1,6 +1,6 @@
 .calendar-day {
-  height: 200px;
-  width: 200px;
+  height: 85px;
+  width: 85px;
   background-color: #963535;
   margin: 10px 25px;
   color: #fff;
@@ -24,7 +24,7 @@
 
 @media (max-width: 1250px) {
   .calendar-day {
-    width: 150px;
-    height: 150px;
+    width: 85px;
+    height: 85px;
   }
 }
