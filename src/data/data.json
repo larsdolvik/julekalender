@@ -1,0 +1,151 @@
+{
+  "name": "Laura",
+  "appPath": "/julekalender",
+  "coverImage": "/christmas.jpg",
+  "calendar": [
+    {
+      "id": 1,
+      "mainImage": "/Australia/1.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "30 min massasje"
+    },
+    {
+      "id": 2,
+      "mainImage": "/Australia/2.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Jeg lager middag"
+    },
+    {
+      "id": 3,
+      "mainImage": "/Australia/3.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Se i julesokken din"
+    },
+    {
+      "id": 4,
+      "mainImage": "/Australia/4.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Du kan velge film neste gang. Mihi. :)"
+    },
+    {
+      "id": 5,
+      "mainImage": "/Australia/5.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "I kiste stor kan du ikke stoppe."
+    },
+    {
+      "id": 6,
+      "mainImage": "/Australia/6.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Non stoppens beste venn ligger i husets laveste kaldeste plass."
+    },
+    {
+      "id": 7,
+      "mainImage": "/Australia/7.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Se i julesokken igjen :)"
+    },
+    {
+      "id": 8,
+      "mainImage": "/Australia/8.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Under juletreet finner du bringebær med sjokoladetrekk :)"
+    },
+    {
+      "id": 9,
+      "mainImage": "/Australia/9.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Se i julesokken din"
+    },
+    {
+      "id": 10,
+      "mainImage": "/Australia/10.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Morgenstund har gull i munn :)"
+    },
+    {
+      "id": 11,
+      "mainImage": "/Australia/11.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Jeg danser modern family dansen naken :)"
+    },
+    {
+      "id": 12,
+      "mainImage": "/Australia/12.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Jeg lager middag :)"
+    },
+    {
+      "id": 13,
+      "mainImage": "/Australia/13.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "30 min massasje :)"
+    },
+    {
+      "id": 14,
+      "mainImage": "/Australia/14.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Jeg ser gullrekka med deg en fredag du velger :)"
+    },
+    {
+      "id": 15,
+      "mainImage": "/Australia/15.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Se i julesokken din :)"
+    },
+    {
+      "id": 16,
+      "mainImage": "/Australia/16.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Noe som ble borte er funnet igjen. Mulig nissen har lagt igjen noe ved en av julestjernene."
+    },
+    {
+      "id": 17,
+      "mainImage": "/Australia/17.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Se i julesokken din :)"
+    },
+    {
+      "id": 18,
+      "mainImage": "/Australia/18.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Rudolf har kommet på besøk. Se i vinduskarmen på kjøkkenet :)"
+    },
+    {
+      "id": 19,
+      "mainImage": "/Australia/19.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Du kommer hvertfall ikke til å fryse på føttene. Eller mangle cuteness. Se under juletreet :)"
+    },
+    {
+      "id": 20,
+      "mainImage": "/Australia/20.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Se i julesokken din :)"
+    },
+    {
+      "id": 21,
+      "mainImage": "/Australia/21.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Se i julesokken din :)"
+    },
+    {
+      "id": 22,
+      "mainImage": "/Australia/22.jpeg",
+      "secondaryImage": "/snipp.png",
+      "text": "Se i julesokken din :)"
+    },
+    {
+      "id": 23,
+      "mainImage": "/Australia/23.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Se i julesokken din :)"
+    },
+    {
+      "id": 24,
+      "mainImage": "/Australia/24.jpg",
+      "secondaryImage": "/snipp.png",
+      "text": "Elsker deg masse masse masse :).. Crispy Duck på dinner en gang på min regning."
+    }
+  ]
+}
