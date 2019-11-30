@@ -4,7 +4,6 @@ import { Container, Sprite } from '@inlet/react-pixi'
 import * as utils from './utils'
 import treeFar001 from './assets/treeFar001.png'
 import treeFar002 from './assets/treeFar002.png'
-import treeFar003 from './assets/treeFar003.png'
 
 import treeNear001 from './assets/treeNear001.png'
 import treeNear002 from './assets/treeNear002.png'
@@ -17,7 +16,7 @@ const allTrees = {
     far: [
         { src: treeFar001, w: 252, h: 291, y: 240 },
         { src: treeFar002, w: 250, h: 343, y: 240 },
-        { src: treeFar003, w: 68, h: 113, y: 230 }
+
     ]
 }
 
