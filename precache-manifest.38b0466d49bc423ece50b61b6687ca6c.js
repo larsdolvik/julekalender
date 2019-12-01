@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ffc310405216596046159bc1504be931",
+    "revision": "a573a332d1517ee62a763e22f3e748ef",
     "url": "/julekalender/index.html"
   },
   {
-    "revision": "84f980e83cf685f036da",
+    "revision": "b905ff8f4e320d67f044",
     "url": "/julekalender/static/css/main.94c1e465.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/julekalender/static/js/2.3fd113f3.chunk.js"
   },
   {
-    "revision": "84f980e83cf685f036da",
-    "url": "/julekalender/static/js/main.1f3b19df.chunk.js"
+    "revision": "b905ff8f4e320d67f044",
+    "url": "/julekalender/static/js/main.70e0a1f1.chunk.js"
   },
   {
     "revision": "0d17d7d24164f4a44249",
@@ -21,11 +21,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "5fab84c99335c7afc8d53510cd9e1bc2",
-    "url": "/julekalender/static/media/_grassfield.5fab84c9.png"
+    "url": "/julekalender/static/media/_grassfield.5fab84c9.jpg"
   },
   {
     "revision": "ffdc0275447ae2835cb6a9b9d634d37a",
-    "url": "/julekalender/static/media/_grassfieldDirt.ffdc0275.png"
+    "url": "/julekalender/static/media/_grassfieldDirt.ffdc0275.jpg"
   },
   {
     "revision": "8699974be09775bb53eafe98340bc12d",
