@@ -33,7 +33,7 @@ class CalendarDayDetail extends Component {
                 <img src={giftIcon} alt="gift" className="calendar-day-detail__gift-icon" />
                 <p className="calendar-detail__text">{text}</p>
                 <img
-                  src={process.env.PUBLIC_URL + secondaryImage}
+                  src={secondaryImage}
                   alt="calendar"
                   className="calendar-day-detail__secondary-image"
                 />

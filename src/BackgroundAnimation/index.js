@@ -1,6 +1,9 @@
 import React, { PureComponent } from 'react'
 import PropTypes from 'prop-types'
 import StageView from './StageView'
+import SnowStorm from 'react-snowstorm';
+
+import treeNear002 from './assets/music.mp3'
 
 // import { getNumFactor } from '../../api/teamsApi';
 
@@ -49,7 +52,8 @@ class BackgroundAnimation extends PureComponent {
     render() {
         const { children } = this.props
         return (<div className='backgroundAnimation'>
-            {/* <canvas id="SnowCanvas"></canvas> */}
+            <SnowStorm />
+            <audio class="audio" ref="audio_tag" src={treeNear002} controls autoPlay loop volume={'0.5'}/>
             <h1 className="title">Lauras julekalender</h1>
             <StageView {...this.state} />
             <div className={styles.mainLayout}>

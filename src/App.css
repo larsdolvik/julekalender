@@ -10,7 +10,7 @@ body {
 .app-container {
   display: flex;
   position: relative;
-  /* max-width: 1040px; */
+  max-width: 1085px;
   margin: 0 auto;
   flex-wrap: wrap;
   padding: 200px 0 50px 0;

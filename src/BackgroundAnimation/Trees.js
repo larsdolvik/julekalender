@@ -2,10 +2,11 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Container, Sprite } from '@inlet/react-pixi'
 import * as utils from './utils'
-import treeFar002 from './assets/treeFar002.png'
 
-import treeNear001 from './assets/treeNear001.png'
-import treeNear002 from './assets/treeNear002.png'
+import treeNear001 from './assets/rudolf.jpg'
+import treeFar002 from './assets/treeNear002.jpg'
+import treeFar001 from './assets/treeFar002.jpg'
+import treeNear002 from './assets/santa.gif'
 
 const allTrees = {
     near: [
@@ -14,6 +15,7 @@ const allTrees = {
     ],
     far: [
         { src: treeFar002, w: 250, h: 300, y: 240 },
+        { src: treeFar001, w: 250, h: 300, y: 240 },
 
     ]
 }
@@ -74,9 +76,8 @@ export default class Trees extends React.PureComponent {
     }
     makeTrees() {
         const trees = []
-        const { numFactor, fod } = this.props
-        const perc = (100 * numFactor)
-        const numTrees = Math.floor(perc / 15)
+        const { fod } = this.props
+        const numTrees = Math.floor(65 / 15)
         for (let i = 0; i < numTrees; i++) {
             const currentTreeArray = allTrees[fod]
             const currentTree = currentTreeArray[Math.floor(Math.random() * currentTreeArray.length)]

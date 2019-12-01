@@ -1,8 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { TilingSprite, Container } from '@inlet/react-pixi'
-import grassfield from './assets/_grassfield.png'
-import grassfieldDirt from './assets/_grassfieldDirt.png'
+
+import grassfield from './assets/grassfield.jpg'
+
 
 export default class Grassfield extends React.PureComponent {
 
@@ -41,7 +42,7 @@ export default class Grassfield extends React.PureComponent {
                 height={196} />
             <TilingSprite
                 alpha={1-numFactor} 
-                image={grassfieldDirt}
+                image={grassfield}
                 x={0}
                 y={height - 196}
                 tilePosition={this.state.tilePosition}
