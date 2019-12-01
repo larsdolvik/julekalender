@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/julekalender/static/css/main.4686ab8e.chunk.css",
-    "main.js": "/julekalender/static/js/main.b8915d6a.chunk.js",
-    "main.js.map": "/julekalender/static/js/main.b8915d6a.chunk.js.map",
+    "main.js": "/julekalender/static/js/main.63b2ece9.chunk.js",
+    "main.js.map": "/julekalender/static/js/main.63b2ece9.chunk.js.map",
     "runtime-main.js": "/julekalender/static/js/runtime-main.f48f3edb.js",
     "runtime-main.js.map": "/julekalender/static/js/runtime-main.f48f3edb.js.map",
     "static/js/2.36c374da.chunk.js": "/julekalender/static/js/2.36c374da.chunk.js",
     "static/js/2.36c374da.chunk.js.map": "/julekalender/static/js/2.36c374da.chunk.js.map",
     "index.html": "/julekalender/index.html",
-    "precache-manifest.bc8c5a1e80537aad42d69724445796c5.js": "/julekalender/precache-manifest.bc8c5a1e80537aad42d69724445796c5.js",
+    "precache-manifest.1864c4d084eab31f7af77d4ccb7cb0ff.js": "/julekalender/precache-manifest.1864c4d084eab31f7af77d4ccb7cb0ff.js",
     "service-worker.js": "/julekalender/service-worker.js",
     "static/css/main.4686ab8e.chunk.css.map": "/julekalender/static/css/main.4686ab8e.chunk.css.map",
     "static/media/_grassfield.png": "/julekalender/static/media/_grassfield.5fab84c9.png",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.f48f3edb.js",
     "static/js/2.36c374da.chunk.js",
     "static/css/main.4686ab8e.chunk.css",
-    "static/js/main.b8915d6a.chunk.js"
+    "static/js/main.63b2ece9.chunk.js"
   ]
 }
