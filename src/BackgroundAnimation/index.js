@@ -9,7 +9,6 @@ import treeNear002 from './assets/music.mp3'
 
 import styles from './styles.css'
 import './styles.css'
-import './snow.css'
 
 // import { init } from './snow.js';
 
@@ -53,7 +52,7 @@ class BackgroundAnimation extends PureComponent {
         const { children } = this.props
         return (<div className='backgroundAnimation'>
             <SnowStorm />
-            <audio class="audio" ref="audio_tag" src={treeNear002} controls autoPlay loop volume={'0.5'}/>
+            <audio className="audio" ref="audio_tag" src={treeNear002} controls autoPlay loop/>
             <h1 className="title">Lauras julekalender</h1>
             <StageView {...this.state} />
             <div className={styles.mainLayout}>
