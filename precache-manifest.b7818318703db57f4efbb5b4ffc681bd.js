@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fea0993d67e776b2e1cf22735a4f443",
+    "revision": "ffc310405216596046159bc1504be931",
     "url": "/julekalender/index.html"
   },
   {
-    "revision": "580573d13c38c28c2db0",
-    "url": "/julekalender/static/css/main.4686ab8e.chunk.css"
+    "revision": "84f980e83cf685f036da",
+    "url": "/julekalender/static/css/main.94c1e465.chunk.css"
   },
   {
-    "revision": "5c80f41d74871dba357e",
-    "url": "/julekalender/static/js/2.36c374da.chunk.js"
+    "revision": "386672b1df73c406ee0b",
+    "url": "/julekalender/static/js/2.3fd113f3.chunk.js"
   },
   {
-    "revision": "580573d13c38c28c2db0",
-    "url": "/julekalender/static/js/main.63b2ece9.chunk.js"
+    "revision": "84f980e83cf685f036da",
+    "url": "/julekalender/static/js/main.1f3b19df.chunk.js"
   },
   {
     "revision": "0d17d7d24164f4a44249",
@@ -42,5 +42,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "06eb5e330879b8b318e3a329030aaa6b",
     "url": "/julekalender/static/media/heart.06eb5e33.svg"
+  },
+  {
+    "revision": "8fff35cc5ae7610b8f05af1f3ef91ab3",
+    "url": "/julekalender/static/media/treeFar002.8fff35cc.jpg"
+  },
+  {
+    "revision": "80f52742814e91e5ba5bfbdbc110a62c",
+    "url": "/julekalender/static/media/treeNear001.80f52742.jpg"
+  },
+  {
+    "revision": "77707ef4353d71f09e06acfe9eddafab",
+    "url": "/julekalender/static/media/treeNear002.77707ef4.jpg"
   }
 ]);
