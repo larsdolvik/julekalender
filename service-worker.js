@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/julekalender/precache-manifest.00f8fe66979d8a867c209be2be310820.js"
+  "/julekalender/precache-manifest.e489303a9cecd1f85f83c5b87d463154.js"
 );
 
 self.addEventListener('message', (event) => {

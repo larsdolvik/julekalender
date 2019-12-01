@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e53a06a0d2a13d46180df1fe5c46d91",
+    "revision": "1d54fd04a85646b2aee5ee1a24e40257",
     "url": "/julekalender/index.html"
   },
   {
-    "revision": "f20d7feded0b583a8161",
+    "revision": "d6b2469bbe89ea2fd604",
     "url": "/julekalender/static/css/main.a5c95865.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/julekalender/static/js/2.7fc1f449.chunk.js"
   },
   {
-    "revision": "f20d7feded0b583a8161",
-    "url": "/julekalender/static/js/main.b403eaf7.chunk.js"
+    "revision": "d6b2469bbe89ea2fd604",
+    "url": "/julekalender/static/js/main.9d0c8a28.chunk.js"
   },
   {
     "revision": "0d17d7d24164f4a44249",
