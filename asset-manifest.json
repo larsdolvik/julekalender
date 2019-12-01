@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.4686ab8e.chunk.css",
-    "main.js": "/static/js/main.9a770316.chunk.js",
-    "main.js.map": "/static/js/main.9a770316.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.16e34139.js",
-    "runtime-main.js.map": "/static/js/runtime-main.16e34139.js.map",
-    "static/js/2.36c374da.chunk.js": "/static/js/2.36c374da.chunk.js",
-    "static/js/2.36c374da.chunk.js.map": "/static/js/2.36c374da.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9f268b57bcd2b147a38f9d8c103f4d57.js": "/precache-manifest.9f268b57bcd2b147a38f9d8c103f4d57.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.4686ab8e.chunk.css.map": "/static/css/main.4686ab8e.chunk.css.map",
-    "static/media/_grassfield.png": "/static/media/_grassfield.5fab84c9.png",
-    "static/media/_grassfieldDirt.png": "/static/media/_grassfieldDirt.ffdc0275.png",
-    "static/media/factory001.png": "/static/media/factory001.8699974b.png",
-    "static/media/factory002.png": "/static/media/factory002.e1ae6f9d.png",
-    "static/media/gift.svg": "/static/media/gift.ce47d7f7.svg",
-    "static/media/heart.svg": "/static/media/heart.06eb5e33.svg"
+    "main.css": "/julekalender/static/css/main.4686ab8e.chunk.css",
+    "main.js": "/julekalender/static/js/main.63b2ece9.chunk.js",
+    "main.js.map": "/julekalender/static/js/main.63b2ece9.chunk.js.map",
+    "runtime-main.js": "/julekalender/static/js/runtime-main.f48f3edb.js",
+    "runtime-main.js.map": "/julekalender/static/js/runtime-main.f48f3edb.js.map",
+    "static/js/2.36c374da.chunk.js": "/julekalender/static/js/2.36c374da.chunk.js",
+    "static/js/2.36c374da.chunk.js.map": "/julekalender/static/js/2.36c374da.chunk.js.map",
+    "index.html": "/julekalender/index.html",
+    "precache-manifest.1864c4d084eab31f7af77d4ccb7cb0ff.js": "/julekalender/precache-manifest.1864c4d084eab31f7af77d4ccb7cb0ff.js",
+    "service-worker.js": "/julekalender/service-worker.js",
+    "static/css/main.4686ab8e.chunk.css.map": "/julekalender/static/css/main.4686ab8e.chunk.css.map",
+    "static/media/_grassfield.png": "/julekalender/static/media/_grassfield.5fab84c9.png",
+    "static/media/_grassfieldDirt.png": "/julekalender/static/media/_grassfieldDirt.ffdc0275.png",
+    "static/media/factory001.png": "/julekalender/static/media/factory001.8699974b.png",
+    "static/media/factory002.png": "/julekalender/static/media/factory002.e1ae6f9d.png",
+    "static/media/gift.svg": "/julekalender/static/media/gift.ce47d7f7.svg",
+    "static/media/heart.svg": "/julekalender/static/media/heart.06eb5e33.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.16e34139.js",
+    "static/js/runtime-main.f48f3edb.js",
     "static/js/2.36c374da.chunk.js",
     "static/css/main.4686ab8e.chunk.css",
-    "static/js/main.9a770316.chunk.js"
+    "static/js/main.63b2ece9.chunk.js"
   ]
 }
