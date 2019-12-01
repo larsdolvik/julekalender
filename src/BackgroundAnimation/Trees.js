@@ -2,7 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Container, Sprite } from '@inlet/react-pixi'
 import * as utils from './utils'
-import treeFar001 from './assets/treeFar001.png'
 import treeFar002 from './assets/treeFar002.png'
 
 import treeNear001 from './assets/treeNear001.png'
@@ -11,11 +10,10 @@ import treeNear002 from './assets/treeNear002.png'
 const allTrees = {
     near: [
         { src: treeNear001, w: 358, h: 444, y: 255 },
-        { src: treeNear002, w: 358, h: 444, y: 255 },
+        { src: treeNear002, w: 358, h: 250, y: 255 },
     ],
     far: [
-        { src: treeFar001, w: 252, h: 291, y: 240 },
-        { src: treeFar002, w: 250, h: 343, y: 240 },
+        { src: treeFar002, w: 250, h: 300, y: 240 },
 
     ]
 }
@@ -47,7 +45,7 @@ export default class Trees extends React.PureComponent {
 
     tick = delta => {
         const trees = this.state.trees.map((tree) => {
-            const speed = this.props.fod === 'near' ? 1 * delta : 0.3 * delta
+            const speed = this.props.fod === 'near' ? 0.7 * delta : 0.3 * delta
             tree.x = tree.x - speed
             if (tree.x + tree.w <= 0) {
                 tree.x = utils.makeRandom(window.innerWidth, 100)
@@ -78,7 +76,7 @@ export default class Trees extends React.PureComponent {
         const trees = []
         const { numFactor, fod } = this.props
         const perc = (100 * numFactor)
-        const numTrees = Math.floor(perc / 10)
+        const numTrees = Math.floor(perc / 15)
         for (let i = 0; i < numTrees; i++) {
             const currentTreeArray = allTrees[fod]
             const currentTree = currentTreeArray[Math.floor(Math.random() * currentTreeArray.length)]

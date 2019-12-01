@@ -8,7 +8,7 @@
     height:100%;
     /* Rectangle 1 */
     /* background: linear-gradient(180deg, #203A39 0%, #FFFFFF 102.2%); */
-    background-image: url("/christmas.jpg");
+    background-image: url("/julekalender/christmas.jpg");
     background-size: cover;
 }
 .pixiStage{
@@ -114,3 +114,4 @@
     position: relative;
     top: -2.5rem;
 }
+

@@ -1,26 +1,32 @@
 import React, { PureComponent } from 'react'
 import PropTypes from 'prop-types'
 import StageView from './StageView'
-import Footer from './Footer'
 
 // import { getNumFactor } from '../../api/teamsApi';
 
 import styles from './styles.css'
 import './styles.css'
+import './snow.css'
+
+// import { init } from './snow.js';
 
 class BackgroundAnimation extends PureComponent {
     constructor(props) {
         super(props)
         this.interval = null
         this.state = {
-            numFactor: 1
+            numFactor: 1,
+            play: false,
+            pause: true,
         }
     }
+
     componentDidMount() {
         // this.getTeamsNumfactor()
         // this.interval = setInterval(() => {
         // this.getTeamsNumfactor()
         // }, 30000);
+        // this.init();
     }
     componentWillUnmount() {
         if(this.interval){
@@ -41,8 +47,9 @@ class BackgroundAnimation extends PureComponent {
 //   };
 
     render() {
-        const { children, gameOver } = this.props
+        const { children } = this.props
         return (<div className='backgroundAnimation'>
+            {/* <canvas id="SnowCanvas"></canvas> */}
             <h1 className="title">Lauras julekalender</h1>
             <StageView {...this.state} />
             <div className={styles.mainLayout}>

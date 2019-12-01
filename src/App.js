@@ -2,16 +2,10 @@ import React, { Component } from 'react';
 import { ConditionallyRender } from 'react-util-kit';
 import { FadeIn } from 'react-anim-kit';
 
-import Jumbotron from './Jumbotron/Jumbotron';
 import CalendarDay from './CalendarDay/CalendarDay';
 import CalendarDayDetail from './CalendarDayDetail/CalendarDayDetail';
 
 import './App.css';
-
-import olaf from './images/olaf.png';
-import mikke from './images/mikke.gif';
-import sled from './images/santassled.png';
-import heartIcon from './images/icons/heart.svg';
 
 import data from './data/data.json';
 import BackgroundAnimation from './BackgroundAnimation/index';
