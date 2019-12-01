@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/julekalender/static/css/main.94c1e465.chunk.css",
-    "main.js": "/julekalender/static/js/main.52eaefef.chunk.js",
-    "main.js.map": "/julekalender/static/js/main.52eaefef.chunk.js.map",
+    "main.css": "/julekalender/static/css/main.435725b7.chunk.css",
+    "main.js": "/julekalender/static/js/main.88acbf6f.chunk.js",
+    "main.js.map": "/julekalender/static/js/main.88acbf6f.chunk.js.map",
     "runtime-main.js": "/julekalender/static/js/runtime-main.f48f3edb.js",
     "runtime-main.js.map": "/julekalender/static/js/runtime-main.f48f3edb.js.map",
-    "static/js/2.3fd113f3.chunk.js": "/julekalender/static/js/2.3fd113f3.chunk.js",
-    "static/js/2.3fd113f3.chunk.js.map": "/julekalender/static/js/2.3fd113f3.chunk.js.map",
+    "static/js/2.81fd3066.chunk.js": "/julekalender/static/js/2.81fd3066.chunk.js",
+    "static/js/2.81fd3066.chunk.js.map": "/julekalender/static/js/2.81fd3066.chunk.js.map",
     "index.html": "/julekalender/index.html",
-    "precache-manifest.57ab225e9cb5271ce95ddfea75789be0.js": "/julekalender/precache-manifest.57ab225e9cb5271ce95ddfea75789be0.js",
+    "precache-manifest.63c886442dfbca31f6e18ee308955605.js": "/julekalender/precache-manifest.63c886442dfbca31f6e18ee308955605.js",
     "service-worker.js": "/julekalender/service-worker.js",
-    "static/css/main.94c1e465.chunk.css.map": "/julekalender/static/css/main.94c1e465.chunk.css.map",
+    "static/css/main.435725b7.chunk.css.map": "/julekalender/static/css/main.435725b7.chunk.css.map",
     "static/media/_grassfield.png": "/julekalender/static/media/_grassfield.5fab84c9.png",
     "static/media/_grassfieldDirt.png": "/julekalender/static/media/_grassfieldDirt.ffdc0275.png",
     "static/media/factory001.png": "/julekalender/static/media/factory001.8699974b.png",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f48f3edb.js",
-    "static/js/2.3fd113f3.chunk.js",
-    "static/css/main.94c1e465.chunk.css",
-    "static/js/main.52eaefef.chunk.js"
+    "static/js/2.81fd3066.chunk.js",
+    "static/css/main.435725b7.chunk.css",
+    "static/js/main.88acbf6f.chunk.js"
   ]
 }
