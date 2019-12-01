@@ -1,30 +1,27 @@
 {
   "files": {
-    "main.css": "/julekalender/static/css/main.435725b7.chunk.css",
-    "main.js": "/julekalender/static/js/main.88acbf6f.chunk.js",
-    "main.js.map": "/julekalender/static/js/main.88acbf6f.chunk.js.map",
+    "main.css": "/julekalender/static/css/main.4686ab8e.chunk.css",
+    "main.js": "/julekalender/static/js/main.b8915d6a.chunk.js",
+    "main.js.map": "/julekalender/static/js/main.b8915d6a.chunk.js.map",
     "runtime-main.js": "/julekalender/static/js/runtime-main.f48f3edb.js",
     "runtime-main.js.map": "/julekalender/static/js/runtime-main.f48f3edb.js.map",
-    "static/js/2.81fd3066.chunk.js": "/julekalender/static/js/2.81fd3066.chunk.js",
-    "static/js/2.81fd3066.chunk.js.map": "/julekalender/static/js/2.81fd3066.chunk.js.map",
+    "static/js/2.36c374da.chunk.js": "/julekalender/static/js/2.36c374da.chunk.js",
+    "static/js/2.36c374da.chunk.js.map": "/julekalender/static/js/2.36c374da.chunk.js.map",
     "index.html": "/julekalender/index.html",
-    "precache-manifest.63c886442dfbca31f6e18ee308955605.js": "/julekalender/precache-manifest.63c886442dfbca31f6e18ee308955605.js",
+    "precache-manifest.bc8c5a1e80537aad42d69724445796c5.js": "/julekalender/precache-manifest.bc8c5a1e80537aad42d69724445796c5.js",
     "service-worker.js": "/julekalender/service-worker.js",
-    "static/css/main.435725b7.chunk.css.map": "/julekalender/static/css/main.435725b7.chunk.css.map",
+    "static/css/main.4686ab8e.chunk.css.map": "/julekalender/static/css/main.4686ab8e.chunk.css.map",
     "static/media/_grassfield.png": "/julekalender/static/media/_grassfield.5fab84c9.png",
     "static/media/_grassfieldDirt.png": "/julekalender/static/media/_grassfieldDirt.ffdc0275.png",
     "static/media/factory001.png": "/julekalender/static/media/factory001.8699974b.png",
     "static/media/factory002.png": "/julekalender/static/media/factory002.e1ae6f9d.png",
     "static/media/gift.svg": "/julekalender/static/media/gift.ce47d7f7.svg",
-    "static/media/heart.svg": "/julekalender/static/media/heart.06eb5e33.svg",
-    "static/media/treeFar002.png": "/julekalender/static/media/treeFar002.8fff35cc.png",
-    "static/media/treeNear001.png": "/julekalender/static/media/treeNear001.80f52742.png",
-    "static/media/treeNear002.png": "/julekalender/static/media/treeNear002.77707ef4.png"
+    "static/media/heart.svg": "/julekalender/static/media/heart.06eb5e33.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f48f3edb.js",
-    "static/js/2.81fd3066.chunk.js",
-    "static/css/main.435725b7.chunk.css",
-    "static/js/main.88acbf6f.chunk.js"
+    "static/js/2.36c374da.chunk.js",
+    "static/css/main.4686ab8e.chunk.css",
+    "static/js/main.b8915d6a.chunk.js"
   ]
 }
